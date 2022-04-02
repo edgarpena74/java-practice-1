@@ -24,6 +24,7 @@ public class Animal {
     this.age = age;
   }
 
+  //
   public static void main(String[] args) {
     Animal newAnimal = new Animal();
   }
